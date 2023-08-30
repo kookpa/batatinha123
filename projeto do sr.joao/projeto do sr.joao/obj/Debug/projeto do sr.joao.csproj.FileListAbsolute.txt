@@ -1,0 +1,7 @@
+C:\Users\rafaela.ngodoi\source\repos\batatinha123\projeto do sr.joao\projeto do sr.joao\obj\Debug\projeto do sr.joao.csproj.AssemblyReference.cache
+C:\Users\rafaela.ngodoi\source\repos\batatinha123\projeto do sr.joao\projeto do sr.joao\obj\Debug\projeto do sr.joao.csproj.CoreCompileInputs.cache
+C:\Users\rafaela.ngodoi\source\repos\batatinha123\projeto do sr.joao\projeto do sr.joao\bin\Debug\projeto do sr.joao.exe.config
+C:\Users\rafaela.ngodoi\source\repos\batatinha123\projeto do sr.joao\projeto do sr.joao\bin\Debug\projeto do sr.joao.exe
+C:\Users\rafaela.ngodoi\source\repos\batatinha123\projeto do sr.joao\projeto do sr.joao\bin\Debug\projeto do sr.joao.pdb
+C:\Users\rafaela.ngodoi\source\repos\batatinha123\projeto do sr.joao\projeto do sr.joao\obj\Debug\projeto do sr.joao.exe
+C:\Users\rafaela.ngodoi\source\repos\batatinha123\projeto do sr.joao\projeto do sr.joao\obj\Debug\projeto do sr.joao.pdb
